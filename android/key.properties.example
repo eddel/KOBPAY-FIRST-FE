@@ -1,0 +1,4 @@
+storePassword=Kobpay_password
+keyPassword=Kobpay_password
+keyAlias=kobpay
+storeFile=C:/Users/YOUR_USER/.keystores/kobpay-upload.jks

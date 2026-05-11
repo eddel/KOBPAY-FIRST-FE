@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Android
+android/local.properties
+android/.gradle/
+android/captures/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Generated.xcfilelist
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcframework
+ios/Flutter/App.xcframework
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
