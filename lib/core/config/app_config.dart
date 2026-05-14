@@ -1,11 +1,11 @@
 import "dart:io";
 
 class AppConfig {
-  static const _androidEmulatorBaseUrl = "https://api.kobpay.com.ng";
-  static const _iosSimulatorBaseUrl = "https://api.kobpay.com.ng";
+  static const _androidEmulatorBaseUrl = "https://kobpay-codex-backend.onrender.com";
+  static const _iosSimulatorBaseUrl = "https://kobpay-codex-backend.onrender.com";
 
   // Update this for physical devices on your LAN.
-  static const _deviceBaseUrl = "https://api.kobpay.com.ng";
+  static const _deviceBaseUrl = "https://kobpay-codex-backend.onrender.com";
 
   // Update these to point to your real exchange/support endpoints.
   static const exchangeUrl = "https://kobpay.com.ng";
